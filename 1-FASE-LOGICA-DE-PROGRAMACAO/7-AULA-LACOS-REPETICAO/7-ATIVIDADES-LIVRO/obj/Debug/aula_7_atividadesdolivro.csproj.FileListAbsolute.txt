@@ -1,0 +1,7 @@
+C:\Users\gean.gcruz\source\repos\aula_7_atividadesdolivro\aula_7_atividadesdolivro\bin\Debug\aula_7_atividadesdolivro.exe.config
+C:\Users\gean.gcruz\source\repos\aula_7_atividadesdolivro\aula_7_atividadesdolivro\bin\Debug\aula_7_atividadesdolivro.exe
+C:\Users\gean.gcruz\source\repos\aula_7_atividadesdolivro\aula_7_atividadesdolivro\bin\Debug\aula_7_atividadesdolivro.pdb
+C:\Users\gean.gcruz\source\repos\aula_7_atividadesdolivro\aula_7_atividadesdolivro\obj\Debug\aula_7_atividadesdolivro.csproj.AssemblyReference.cache
+C:\Users\gean.gcruz\source\repos\aula_7_atividadesdolivro\aula_7_atividadesdolivro\obj\Debug\aula_7_atividadesdolivro.csproj.CoreCompileInputs.cache
+C:\Users\gean.gcruz\source\repos\aula_7_atividadesdolivro\aula_7_atividadesdolivro\obj\Debug\aula_7_atividadesdolivro.exe
+C:\Users\gean.gcruz\source\repos\aula_7_atividadesdolivro\aula_7_atividadesdolivro\obj\Debug\aula_7_atividadesdolivro.pdb

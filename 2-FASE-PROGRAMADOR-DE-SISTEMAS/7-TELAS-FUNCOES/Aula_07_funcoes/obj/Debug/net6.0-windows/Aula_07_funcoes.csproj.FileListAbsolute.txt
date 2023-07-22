@@ -1,0 +1,17 @@
+C:\Users\DELL\source\repos\Aula_07_funcoes\Aula_07_funcoes\bin\Debug\net6.0-windows\Aula_07_funcoes.exe
+C:\Users\DELL\source\repos\Aula_07_funcoes\Aula_07_funcoes\bin\Debug\net6.0-windows\Aula_07_funcoes.deps.json
+C:\Users\DELL\source\repos\Aula_07_funcoes\Aula_07_funcoes\bin\Debug\net6.0-windows\Aula_07_funcoes.runtimeconfig.json
+C:\Users\DELL\source\repos\Aula_07_funcoes\Aula_07_funcoes\bin\Debug\net6.0-windows\Aula_07_funcoes.dll
+C:\Users\DELL\source\repos\Aula_07_funcoes\Aula_07_funcoes\bin\Debug\net6.0-windows\Aula_07_funcoes.pdb
+C:\Users\DELL\source\repos\Aula_07_funcoes\Aula_07_funcoes\obj\Debug\net6.0-windows\Aula_07_funcoes.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\Aula_07_funcoes\Aula_07_funcoes\obj\Debug\net6.0-windows\Aula_07_funcoes.Form1.resources
+C:\Users\DELL\source\repos\Aula_07_funcoes\Aula_07_funcoes\obj\Debug\net6.0-windows\Aula_07_funcoes.csproj.GenerateResource.cache
+C:\Users\DELL\source\repos\Aula_07_funcoes\Aula_07_funcoes\obj\Debug\net6.0-windows\Aula_07_funcoes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\source\repos\Aula_07_funcoes\Aula_07_funcoes\obj\Debug\net6.0-windows\Aula_07_funcoes.AssemblyInfoInputs.cache
+C:\Users\DELL\source\repos\Aula_07_funcoes\Aula_07_funcoes\obj\Debug\net6.0-windows\Aula_07_funcoes.AssemblyInfo.cs
+C:\Users\DELL\source\repos\Aula_07_funcoes\Aula_07_funcoes\obj\Debug\net6.0-windows\Aula_07_funcoes.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\Aula_07_funcoes\Aula_07_funcoes\obj\Debug\net6.0-windows\Aula_07_funcoes.dll
+C:\Users\DELL\source\repos\Aula_07_funcoes\Aula_07_funcoes\obj\Debug\net6.0-windows\refint\Aula_07_funcoes.dll
+C:\Users\DELL\source\repos\Aula_07_funcoes\Aula_07_funcoes\obj\Debug\net6.0-windows\Aula_07_funcoes.pdb
+C:\Users\DELL\source\repos\Aula_07_funcoes\Aula_07_funcoes\obj\Debug\net6.0-windows\Aula_07_funcoes.genruntimeconfig.cache
+C:\Users\DELL\source\repos\Aula_07_funcoes\Aula_07_funcoes\obj\Debug\net6.0-windows\ref\Aula_07_funcoes.dll

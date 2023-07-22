@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "MAuu0S1Pvg2/YYy8PnFYZmXlsxVRKswrxOWEtp5sSqnh/vy76apmdI7v3a65OKpXrfkbkIWajrsl6T96jH31Bg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\DELL\\source\\repos\\Aula_6_streaming\\Aula_6_streaming\\Aula_6_streaming.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\DELL\\.nuget\\packages\\microsoft.web.webview2\\1.0.1823.32\\microsoft.web.webview2.1.0.1823.32.nupkg.sha512"
+  ],
+  "logs": []
+}

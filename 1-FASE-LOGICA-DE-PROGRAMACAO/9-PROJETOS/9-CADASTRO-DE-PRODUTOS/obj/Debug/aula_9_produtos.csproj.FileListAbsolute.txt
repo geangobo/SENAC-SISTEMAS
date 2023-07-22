@@ -1,0 +1,7 @@
+C:\Users\gean.gcruz\source\repos\aula_9_produtos\aula_9_produtos\bin\Debug\aula_9_produtos.exe.config
+C:\Users\gean.gcruz\source\repos\aula_9_produtos\aula_9_produtos\bin\Debug\aula_9_produtos.exe
+C:\Users\gean.gcruz\source\repos\aula_9_produtos\aula_9_produtos\bin\Debug\aula_9_produtos.pdb
+C:\Users\gean.gcruz\source\repos\aula_9_produtos\aula_9_produtos\obj\Debug\aula_9_produtos.csproj.AssemblyReference.cache
+C:\Users\gean.gcruz\source\repos\aula_9_produtos\aula_9_produtos\obj\Debug\aula_9_produtos.csproj.CoreCompileInputs.cache
+C:\Users\gean.gcruz\source\repos\aula_9_produtos\aula_9_produtos\obj\Debug\aula_9_produtos.exe
+C:\Users\gean.gcruz\source\repos\aula_9_produtos\aula_9_produtos\obj\Debug\aula_9_produtos.pdb

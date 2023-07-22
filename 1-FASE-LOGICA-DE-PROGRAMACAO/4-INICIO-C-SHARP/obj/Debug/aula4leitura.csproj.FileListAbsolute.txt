@@ -1,0 +1,7 @@
+C:\Users\gean.gcruz\source\repos\aula4leitura\aula4leitura\bin\Debug\aula4leitura.exe.config
+C:\Users\gean.gcruz\source\repos\aula4leitura\aula4leitura\bin\Debug\aula4leitura.exe
+C:\Users\gean.gcruz\source\repos\aula4leitura\aula4leitura\bin\Debug\aula4leitura.pdb
+C:\Users\gean.gcruz\source\repos\aula4leitura\aula4leitura\obj\Debug\aula4leitura.csproj.AssemblyReference.cache
+C:\Users\gean.gcruz\source\repos\aula4leitura\aula4leitura\obj\Debug\aula4leitura.csproj.CoreCompileInputs.cache
+C:\Users\gean.gcruz\source\repos\aula4leitura\aula4leitura\obj\Debug\aula4leitura.exe
+C:\Users\gean.gcruz\source\repos\aula4leitura\aula4leitura\obj\Debug\aula4leitura.pdb

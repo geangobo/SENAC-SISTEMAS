@@ -1,0 +1,17 @@
+C:\Users\DELL\source\repos\Aula_10_Estacionamento\Aula_10_Estacionamento\bin\Debug\net6.0-windows\Aula_10_Estacionamento.exe
+C:\Users\DELL\source\repos\Aula_10_Estacionamento\Aula_10_Estacionamento\bin\Debug\net6.0-windows\Aula_10_Estacionamento.deps.json
+C:\Users\DELL\source\repos\Aula_10_Estacionamento\Aula_10_Estacionamento\bin\Debug\net6.0-windows\Aula_10_Estacionamento.runtimeconfig.json
+C:\Users\DELL\source\repos\Aula_10_Estacionamento\Aula_10_Estacionamento\bin\Debug\net6.0-windows\Aula_10_Estacionamento.dll
+C:\Users\DELL\source\repos\Aula_10_Estacionamento\Aula_10_Estacionamento\bin\Debug\net6.0-windows\Aula_10_Estacionamento.pdb
+C:\Users\DELL\source\repos\Aula_10_Estacionamento\Aula_10_Estacionamento\obj\Debug\net6.0-windows\Aula_10_Estacionamento.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\Aula_10_Estacionamento\Aula_10_Estacionamento\obj\Debug\net6.0-windows\Aula_10_Estacionamento.Form1.resources
+C:\Users\DELL\source\repos\Aula_10_Estacionamento\Aula_10_Estacionamento\obj\Debug\net6.0-windows\Aula_10_Estacionamento.csproj.GenerateResource.cache
+C:\Users\DELL\source\repos\Aula_10_Estacionamento\Aula_10_Estacionamento\obj\Debug\net6.0-windows\Aula_10_Estacionamento.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\source\repos\Aula_10_Estacionamento\Aula_10_Estacionamento\obj\Debug\net6.0-windows\Aula_10_Estacionamento.AssemblyInfoInputs.cache
+C:\Users\DELL\source\repos\Aula_10_Estacionamento\Aula_10_Estacionamento\obj\Debug\net6.0-windows\Aula_10_Estacionamento.AssemblyInfo.cs
+C:\Users\DELL\source\repos\Aula_10_Estacionamento\Aula_10_Estacionamento\obj\Debug\net6.0-windows\Aula_10_Estacionamento.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\Aula_10_Estacionamento\Aula_10_Estacionamento\obj\Debug\net6.0-windows\Aula_10_Estacionamento.dll
+C:\Users\DELL\source\repos\Aula_10_Estacionamento\Aula_10_Estacionamento\obj\Debug\net6.0-windows\refint\Aula_10_Estacionamento.dll
+C:\Users\DELL\source\repos\Aula_10_Estacionamento\Aula_10_Estacionamento\obj\Debug\net6.0-windows\Aula_10_Estacionamento.pdb
+C:\Users\DELL\source\repos\Aula_10_Estacionamento\Aula_10_Estacionamento\obj\Debug\net6.0-windows\Aula_10_Estacionamento.genruntimeconfig.cache
+C:\Users\DELL\source\repos\Aula_10_Estacionamento\Aula_10_Estacionamento\obj\Debug\net6.0-windows\ref\Aula_10_Estacionamento.dll

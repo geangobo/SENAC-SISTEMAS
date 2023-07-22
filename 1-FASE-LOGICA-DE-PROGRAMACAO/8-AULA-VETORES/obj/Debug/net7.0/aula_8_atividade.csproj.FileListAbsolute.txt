@@ -1,0 +1,15 @@
+C:\Users\acer\Desktop\C_sharp_serasa\aula_8_atividade\bin\Debug\net7.0\aula_8_atividade.exe
+C:\Users\acer\Desktop\C_sharp_serasa\aula_8_atividade\bin\Debug\net7.0\aula_8_atividade.deps.json
+C:\Users\acer\Desktop\C_sharp_serasa\aula_8_atividade\bin\Debug\net7.0\aula_8_atividade.runtimeconfig.json
+C:\Users\acer\Desktop\C_sharp_serasa\aula_8_atividade\bin\Debug\net7.0\aula_8_atividade.dll
+C:\Users\acer\Desktop\C_sharp_serasa\aula_8_atividade\bin\Debug\net7.0\aula_8_atividade.pdb
+C:\Users\acer\Desktop\C_sharp_serasa\aula_8_atividade\obj\Debug\net7.0\aula_8_atividade.csproj.AssemblyReference.cache
+C:\Users\acer\Desktop\C_sharp_serasa\aula_8_atividade\obj\Debug\net7.0\aula_8_atividade.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\acer\Desktop\C_sharp_serasa\aula_8_atividade\obj\Debug\net7.0\aula_8_atividade.AssemblyInfoInputs.cache
+C:\Users\acer\Desktop\C_sharp_serasa\aula_8_atividade\obj\Debug\net7.0\aula_8_atividade.AssemblyInfo.cs
+C:\Users\acer\Desktop\C_sharp_serasa\aula_8_atividade\obj\Debug\net7.0\aula_8_atividade.csproj.CoreCompileInputs.cache
+C:\Users\acer\Desktop\C_sharp_serasa\aula_8_atividade\obj\Debug\net7.0\aula_8_atividade.dll
+C:\Users\acer\Desktop\C_sharp_serasa\aula_8_atividade\obj\Debug\net7.0\refint\aula_8_atividade.dll
+C:\Users\acer\Desktop\C_sharp_serasa\aula_8_atividade\obj\Debug\net7.0\aula_8_atividade.pdb
+C:\Users\acer\Desktop\C_sharp_serasa\aula_8_atividade\obj\Debug\net7.0\aula_8_atividade.genruntimeconfig.cache
+C:\Users\acer\Desktop\C_sharp_serasa\aula_8_atividade\obj\Debug\net7.0\ref\aula_8_atividade.dll

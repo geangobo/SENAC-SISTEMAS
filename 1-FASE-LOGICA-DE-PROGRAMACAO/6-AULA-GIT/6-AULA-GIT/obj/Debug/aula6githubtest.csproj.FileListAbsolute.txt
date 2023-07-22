@@ -1,0 +1,7 @@
+C:\Users\gean.gcruz\source\repos\aula6githubtest\aula6githubtest\bin\Debug\aula6githubtest.exe.config
+C:\Users\gean.gcruz\source\repos\aula6githubtest\aula6githubtest\bin\Debug\aula6githubtest.exe
+C:\Users\gean.gcruz\source\repos\aula6githubtest\aula6githubtest\bin\Debug\aula6githubtest.pdb
+C:\Users\gean.gcruz\source\repos\aula6githubtest\aula6githubtest\obj\Debug\aula6githubtest.csproj.CoreCompileInputs.cache
+C:\Users\gean.gcruz\source\repos\aula6githubtest\aula6githubtest\obj\Debug\aula6githubtest.exe
+C:\Users\gean.gcruz\source\repos\aula6githubtest\aula6githubtest\obj\Debug\aula6githubtest.pdb
+C:\Users\gean.gcruz\source\repos\aula6githubtest\aula6githubtest\obj\Debug\aula6githubtest.csproj.AssemblyReference.cache

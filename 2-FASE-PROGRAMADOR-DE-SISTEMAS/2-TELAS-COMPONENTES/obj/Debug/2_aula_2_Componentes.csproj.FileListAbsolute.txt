@@ -1,0 +1,10 @@
+C:\Users\gean.gcruz\source\repos\2_aula_2_Componentes\2_aula_2_Componentes\bin\Debug\2_aula_2_Componentes.exe.config
+C:\Users\gean.gcruz\source\repos\2_aula_2_Componentes\2_aula_2_Componentes\bin\Debug\2_aula_2_Componentes.exe
+C:\Users\gean.gcruz\source\repos\2_aula_2_Componentes\2_aula_2_Componentes\bin\Debug\2_aula_2_Componentes.pdb
+C:\Users\gean.gcruz\source\repos\2_aula_2_Componentes\2_aula_2_Componentes\obj\Debug\2_aula_2_Componentes.csproj.AssemblyReference.cache
+C:\Users\gean.gcruz\source\repos\2_aula_2_Componentes\2_aula_2_Componentes\obj\Debug\_2_aula_2_Componentes.Properties.Resources.resources
+C:\Users\gean.gcruz\source\repos\2_aula_2_Componentes\2_aula_2_Componentes\obj\Debug\2_aula_2_Componentes.csproj.GenerateResource.cache
+C:\Users\gean.gcruz\source\repos\2_aula_2_Componentes\2_aula_2_Componentes\obj\Debug\2_aula_2_Componentes.csproj.CoreCompileInputs.cache
+C:\Users\gean.gcruz\source\repos\2_aula_2_Componentes\2_aula_2_Componentes\obj\Debug\2_aula_2_Componentes.exe
+C:\Users\gean.gcruz\source\repos\2_aula_2_Componentes\2_aula_2_Componentes\obj\Debug\2_aula_2_Componentes.pdb
+C:\Users\gean.gcruz\source\repos\2_aula_2_Componentes\2_aula_2_Componentes\obj\Debug\_2_aula_2_Componentes.Form1.resources
