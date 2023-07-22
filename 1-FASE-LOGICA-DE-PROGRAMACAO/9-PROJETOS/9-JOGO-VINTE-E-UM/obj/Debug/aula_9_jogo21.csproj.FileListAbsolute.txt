@@ -1,0 +1,7 @@
+C:\Users\gean.gcruz\source\repos\aula_9_jogo21\aula_9_jogo21\bin\Debug\aula_9_jogo21.exe.config
+C:\Users\gean.gcruz\source\repos\aula_9_jogo21\aula_9_jogo21\bin\Debug\aula_9_jogo21.exe
+C:\Users\gean.gcruz\source\repos\aula_9_jogo21\aula_9_jogo21\bin\Debug\aula_9_jogo21.pdb
+C:\Users\gean.gcruz\source\repos\aula_9_jogo21\aula_9_jogo21\obj\Debug\aula_9_jogo21.csproj.AssemblyReference.cache
+C:\Users\gean.gcruz\source\repos\aula_9_jogo21\aula_9_jogo21\obj\Debug\aula_9_jogo21.csproj.CoreCompileInputs.cache
+C:\Users\gean.gcruz\source\repos\aula_9_jogo21\aula_9_jogo21\obj\Debug\aula_9_jogo21.exe
+C:\Users\gean.gcruz\source\repos\aula_9_jogo21\aula_9_jogo21\obj\Debug\aula_9_jogo21.pdb

@@ -1,0 +1,17 @@
+C:\Users\DELL\source\repos\Aula8_Estoque\Aula8_Estoque\bin\Debug\net6.0-windows\Aula8_Estoque.exe
+C:\Users\DELL\source\repos\Aula8_Estoque\Aula8_Estoque\bin\Debug\net6.0-windows\Aula8_Estoque.deps.json
+C:\Users\DELL\source\repos\Aula8_Estoque\Aula8_Estoque\bin\Debug\net6.0-windows\Aula8_Estoque.runtimeconfig.json
+C:\Users\DELL\source\repos\Aula8_Estoque\Aula8_Estoque\bin\Debug\net6.0-windows\Aula8_Estoque.dll
+C:\Users\DELL\source\repos\Aula8_Estoque\Aula8_Estoque\bin\Debug\net6.0-windows\Aula8_Estoque.pdb
+C:\Users\DELL\source\repos\Aula8_Estoque\Aula8_Estoque\obj\Debug\net6.0-windows\Aula8_Estoque.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\Aula8_Estoque\Aula8_Estoque\obj\Debug\net6.0-windows\Aula8_Estoque.Form1.resources
+C:\Users\DELL\source\repos\Aula8_Estoque\Aula8_Estoque\obj\Debug\net6.0-windows\Aula8_Estoque.csproj.GenerateResource.cache
+C:\Users\DELL\source\repos\Aula8_Estoque\Aula8_Estoque\obj\Debug\net6.0-windows\Aula8_Estoque.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\source\repos\Aula8_Estoque\Aula8_Estoque\obj\Debug\net6.0-windows\Aula8_Estoque.AssemblyInfoInputs.cache
+C:\Users\DELL\source\repos\Aula8_Estoque\Aula8_Estoque\obj\Debug\net6.0-windows\Aula8_Estoque.AssemblyInfo.cs
+C:\Users\DELL\source\repos\Aula8_Estoque\Aula8_Estoque\obj\Debug\net6.0-windows\Aula8_Estoque.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\Aula8_Estoque\Aula8_Estoque\obj\Debug\net6.0-windows\Aula8_Estoque.dll
+C:\Users\DELL\source\repos\Aula8_Estoque\Aula8_Estoque\obj\Debug\net6.0-windows\refint\Aula8_Estoque.dll
+C:\Users\DELL\source\repos\Aula8_Estoque\Aula8_Estoque\obj\Debug\net6.0-windows\Aula8_Estoque.pdb
+C:\Users\DELL\source\repos\Aula8_Estoque\Aula8_Estoque\obj\Debug\net6.0-windows\Aula8_Estoque.genruntimeconfig.cache
+C:\Users\DELL\source\repos\Aula8_Estoque\Aula8_Estoque\obj\Debug\net6.0-windows\ref\Aula8_Estoque.dll

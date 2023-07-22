@@ -1,0 +1,9 @@
+C:\Users\gean.gcruz\source\repos\2_aula_3_login\2_aula_3_login\bin\Debug\2_aula_3_login.exe.config
+C:\Users\gean.gcruz\source\repos\2_aula_3_login\2_aula_3_login\bin\Debug\2_aula_3_login.exe
+C:\Users\gean.gcruz\source\repos\2_aula_3_login\2_aula_3_login\bin\Debug\2_aula_3_login.pdb
+C:\Users\gean.gcruz\source\repos\2_aula_3_login\2_aula_3_login\obj\Debug\_2_aula_3_login.Properties.Resources.resources
+C:\Users\gean.gcruz\source\repos\2_aula_3_login\2_aula_3_login\obj\Debug\2_aula_3_login.csproj.GenerateResource.cache
+C:\Users\gean.gcruz\source\repos\2_aula_3_login\2_aula_3_login\obj\Debug\2_aula_3_login.csproj.CoreCompileInputs.cache
+C:\Users\gean.gcruz\source\repos\2_aula_3_login\2_aula_3_login\obj\Debug\2_aula_3_login.exe
+C:\Users\gean.gcruz\source\repos\2_aula_3_login\2_aula_3_login\obj\Debug\2_aula_3_login.pdb
+C:\Users\gean.gcruz\source\repos\2_aula_3_login\2_aula_3_login\obj\Debug\_2_aula_3_login.Form1.resources
