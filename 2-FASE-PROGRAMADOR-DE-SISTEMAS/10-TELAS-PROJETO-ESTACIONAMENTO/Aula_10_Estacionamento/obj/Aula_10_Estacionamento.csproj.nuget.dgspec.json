@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\DELL\\source\\repos\\Aula_10_Estacionamento\\Aula_10_Estacionamento\\Aula_10_Estacionamento.csproj": {}
+    "C:\\Users\\acer\\Desktop\\SISTEMAS-SENAC\\2-FASE-PROGRAMADOR-DE-SISTEMAS\\10-TELAS-PROJETO-ESTACIONAMENTO\\Aula_10_Estacionamento\\Aula_10_Estacionamento.csproj": {}
   },
   "projects": {
-    "C:\\Users\\DELL\\source\\repos\\Aula_10_Estacionamento\\Aula_10_Estacionamento\\Aula_10_Estacionamento.csproj": {
+    "C:\\Users\\acer\\Desktop\\SISTEMAS-SENAC\\2-FASE-PROGRAMADOR-DE-SISTEMAS\\10-TELAS-PROJETO-ESTACIONAMENTO\\Aula_10_Estacionamento\\Aula_10_Estacionamento.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\DELL\\source\\repos\\Aula_10_Estacionamento\\Aula_10_Estacionamento\\Aula_10_Estacionamento.csproj",
+        "projectUniqueName": "C:\\Users\\acer\\Desktop\\SISTEMAS-SENAC\\2-FASE-PROGRAMADOR-DE-SISTEMAS\\10-TELAS-PROJETO-ESTACIONAMENTO\\Aula_10_Estacionamento\\Aula_10_Estacionamento.csproj",
         "projectName": "Aula_10_Estacionamento",
-        "projectPath": "C:\\Users\\DELL\\source\\repos\\Aula_10_Estacionamento\\Aula_10_Estacionamento\\Aula_10_Estacionamento.csproj",
-        "packagesPath": "C:\\Users\\DELL\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\DELL\\source\\repos\\Aula_10_Estacionamento\\Aula_10_Estacionamento\\obj\\",
+        "projectPath": "C:\\Users\\acer\\Desktop\\SISTEMAS-SENAC\\2-FASE-PROGRAMADOR-DE-SISTEMAS\\10-TELAS-PROJETO-ESTACIONAMENTO\\Aula_10_Estacionamento\\Aula_10_Estacionamento.csproj",
+        "packagesPath": "C:\\Users\\acer\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\acer\\Desktop\\SISTEMAS-SENAC\\2-FASE-PROGRAMADOR-DE-SISTEMAS\\10-TELAS-PROJETO-ESTACIONAMENTO\\Aula_10_Estacionamento\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\DELL\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\acer\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
