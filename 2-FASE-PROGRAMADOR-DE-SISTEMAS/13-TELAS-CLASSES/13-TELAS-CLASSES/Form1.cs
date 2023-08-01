@@ -13,7 +13,7 @@ namespace _13_TELAS_CLASSES
         }
         public void atualizarInterface()
         {
-            
+
             for (int i = 0; i < pessoas.Count; i++)
             {
                 listView1.Items.Add(pessoas[i].nome);
@@ -33,13 +33,18 @@ namespace _13_TELAS_CLASSES
             string rua = txtEndereco.Text;
             string cidade = txtCidade.Text;
 
-            Pessoa pessoa = new Pessoa(nome, idade, rua, cidade); 
+            Pessoa pessoa = new Pessoa(nome, idade, rua, cidade);
             pessoas.Add(pessoa);
             atualizarInterface();
 
 
 
-            
+
+        }
+
+        private void listView1_SelectedIndexChanged(object sender, EventArgs e)
+        {
+
         }
     }
 }
